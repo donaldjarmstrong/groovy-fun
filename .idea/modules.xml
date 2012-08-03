@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
-    <modules />
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BranchPrediction.iml" filepath="$PROJECT_DIR$/BranchPrediction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroovyInAction.iml" filepath="$PROJECT_DIR$/GroovyInAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/groovy-fun.iml" filepath="$PROJECT_DIR$/groovy-fun.iml" />
+    </modules>
   </component>
 </project>
 
