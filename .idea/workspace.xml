@@ -2,69 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c053c69c-3756-4ba9-ac41-23eec79b349d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle_settings2_config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/antlr_2_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/asm_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/asm_analysis_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/asm_commons_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/asm_tree_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/asm_util_3_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_cli_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/groovy_1_8_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/groovy_all_1_8_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_dep_4_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/spock_core_0_6_groovy_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BranchPrediction.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BranchPrediction/src/net/donnie/Origional.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/Book.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/Example.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/Helper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/castingExamples.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/clinks.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/concat.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/controlStructures.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/enumRange.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/fixedBean.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/funWithRanges.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/grep.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/gstrings.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/gstringsFun.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/insertingIntoLists.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/invalidJava.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/listControls.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/lists.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/manipulateLists.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/maps.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/messingAroundWithStrings.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/moreRanges.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/moreStrings.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/numberScripts.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/numbersAndOperators.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/numbersAreObjects.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/overloadedGetAt.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/overridingOperators.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/ranges.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/regex/classificationPatterns.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/regex/compiledPatternPerformance.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/regex/initialRegex.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/regex/maatcherGroupings.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/regex/matcherArray.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/regex/musicMatching.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/regex/regex.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/romans.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/stringBuffers.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/typeingExamples.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/useBook.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyInAction/src/main/groovy/net/donnie/weekDayRange.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/groovy-fun.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="groovy-fun.iws" />
@@ -205,89 +142,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="GroovyInAction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-fun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-fun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GroovyInAction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-fun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-fun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GroovyInAction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="donnie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-fun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groovy-fun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="BranchPrediction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="net" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="donnie" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -479,6 +334,11 @@
       <created>1343969578365</created>
       <updated>1343969578365</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial checkin">
+      <created>1343969901294</created>
+      <updated>1343969901294</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -495,12 +355,12 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928678" sideWeight="0.6712329" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852808" sideWeight="0.56164384" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962063" sideWeight="0.36815068" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962063" sideWeight="0.6712329" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962063" sideWeight="0.29109588" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
